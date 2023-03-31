@@ -1,4 +1,5 @@
 ![logo](https://github.com/nikhil-x24/nikhilx-24/blob/master/banner.jpg)
+
 <h1 align="center">Hello, I am Nikhil Verma</h1>
 <h3 align="center">〰️〰️〰️〰️〰️〰️〰️〰️〰️ I am a Web Developer〰️〰️〰️〰️〰️〰️〰️〰️〰️</h3>
 
@@ -20,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilx-24&show_icons=true&locale=en&layout=compact" alt="nikhilx-24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilx-24&show_icons=true&locale=en" alt="nikhilx-24" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil-x24&show_icons=true&locale=en" alt="nikhil-x24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilx-24&" alt="nikhilx-24" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-x24&" alt="nikhil-x24" /></p>

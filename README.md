@@ -1,4 +1,4 @@
-![logo](https://github.com/nikhil-x24/nikhilx-24/blob/master/banner.jpg)
+![logo](https://github.com/nikhil-x24/nikhil-x24/blob/master/imgbanner.jpg)
 
 <h1 align="center">Hello, I am Nikhil Verma</h1>
 
